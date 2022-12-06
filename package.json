@@ -19,8 +19,8 @@
   "homepage": "https://github.com/treehouse/mean-todo#readme",
   "dependencies": {
     "angular": "^1.4.8",
-    "body-parser": "1.14.2",
-    "express": "4.13.4",
+    "body-parser": "1.20.1",
+    "express": "4.18.2",
     "mongoose": "4.4.5"
   },
   "devDependencies": {
